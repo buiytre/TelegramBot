@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBots", "TelegramBots\TelegramBots.csproj", "{2712FCDC-56CC-464C-91FA-D0926D263C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SusuTheBunnyBot", "..\SusuBot\SusuBot\SusuTheBunnyBot.csproj", "{B6F00480-9428-48C3-A795-1DDC8F1A7D9F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SusuTheBunnyBot", "SusuBot\SusuTheBunnyBot.csproj", "{B6F00480-9428-48C3-A795-1DDC8F1A7D9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandrilBot", "..\MandrilBot\MandrilBot\MandrilBot.csproj", "{EA529568-AF67-4D65-B8F4-77F700707D4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandrilBot", "MandrilBot\MandrilBot.csproj", "{EA529568-AF67-4D65-B8F4-77F700707D4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
